@@ -1,3 +1,8 @@
+Bike Sharing assignment
+
+done by Vaishnavi Kanagaraj
+
+
 =========================================
 Dataset characteristics
 =========================================	
